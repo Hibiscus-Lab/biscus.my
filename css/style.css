@@ -64,7 +64,7 @@ section {
 .navbar .nav-link {
    font-size: 12px;
    text-transform: uppercase;
-   letter-spacing: 0px;
+   letter-spacing: -2px;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
