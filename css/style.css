@@ -50,12 +50,6 @@ section {
    text-transform: uppercase;
    color: #ED2024 !important;
 }
-.navbar .nav-link {
-   font-size: 12px;
-   text-transform: uppercase;
-   letter-spacing: 1px;
-}
-
 .logo-text2 {
    font-size: 22px;
    text-transform: uppercase;
@@ -66,6 +60,7 @@ section {
    text-transform: uppercase;
    letter-spacing: 1px;
 }
+
 
 .navbar-light .navbar-nav .nav-link.active {
    color: #E93B81;
