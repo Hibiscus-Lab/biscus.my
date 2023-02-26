@@ -45,7 +45,18 @@ section {
    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.logo-text {
+.logo-text1 {
+   font-size: 22px;
+   text-transform: uppercase;
+   color: #ED2024 !important;
+}
+.navbar .nav-link {
+   font-size: 12px;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+
+.logo-text2 {
    font-size: 22px;
    text-transform: uppercase;
    color: #ED2024 !important;
