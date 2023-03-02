@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/png" href="/img/favicon-16x16.png" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/boxicons.min.css" />
+    <link rel="stylesheet" href="/css/style.css" />
+
+    <title>Hibiscus Lab</title>
+  </head>
+  <body data-bs-spy="scroll" data-bs-target=".navbar">
+    <!--  -->
+    <!-- header navbar -->
+    <div id="my-header"></div>
+
+    <!--                 -->
+    <!-- Start Section Code Here -->
+    <!--                 -->
+
+    <!-- footer -->
+    <div id="my-footer"></div>
+
+    <!-- scipts jquery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        $('#my-header').load('layouts/header.html');
+        $('#my-footer').load('layouts/footer.html');
+      });
+    </script>
+  </body>
+</html>
