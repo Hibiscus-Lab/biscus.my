@@ -310,3 +310,21 @@ footer .social-icons a:hover,
 footer .footer-links a:hover {
    color: #E93B81;
 }
+
+# Table CSS
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
