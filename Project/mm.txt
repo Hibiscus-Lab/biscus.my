@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+   <!-- Head -->
+   <head>
+      <!-- Required meta tags -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="icon" type="image/png" href="../img/favicon-16x16.png">
+      <!-- Bootstrap CSS -->
+      <link rel="stylesheet" href="../css/bootstrap.min.css">
+      <link rel="stylesheet" href="../css/boxicons.min.css">
+      <link rel="stylesheet" href="../css/style.css">
+      <title>Hibiscus Lab</title>
+   </head>
+   <!-- End Head -->
+   <body data-bs-spy="scroll" data-bs-target=".navbar">
+      <!-- Navbar -->
+      <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-white">
+         <div class="container">
+            <a class="navbar-brand logo-text1" ><a href ="/home"><img src ="../img/favicon.ico"</a>
+            <a class="navbar-brand logo-text1" href="/home">Hibiscus</a><a class="navbar-brand logo-text2" href="/home">Lab</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+               <ul class="navbar-nav ms-auto">
+                  <li class="nav-item">
+                     <a class="nav-link" href="/home">Home</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" href="/project">Project</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" href="/roadmap">Roadmap</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" href="/partners">Partners</a>
+                  </li>
+                  <li class="nav-item">
+                     <a class="nav-link" href="/contact">CONTACT US</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </nav>
+      <!-- End Navbar -->
+
+      <!-- Section Intro -->
+      <section id="about">
+         <div class="container">
+         <div class="row">
+            <div class="col-12 section-intro">
+               <h1>Mentoring Mondays</h1>
+               <div class="hline"></div>
+            </div>
+         </div>
+         <div class="row">
+         <div class="col-12 p-4">
+            <p>Mentoring Mondays developed to provide a way to connect as mentor and mentee. Join us over for round-table-style disucssions with professional in a variety of fields.</p>
+            <p>Interested to become our mentor? Sign up to be a mentor!</p>
+            <p>For more information, contact customer service at hello@biscus.my or admin@biscus.my</p>
+         </div>
+      </section>
+      <!-- End Section Intro -->
+
+      <!-- Footer -->
+      <footer>
+         <div class="footer-top">
+            <div class="container">
+               <div class="row gy-5">
+                  <div class="col-md-4">
+                     <h4 class="logo-text">Hibiscus Lab</h4>
+                     <p>SSM: 003477397-W</p>
+                     <div class="social-icons">
+                        <a href="https://www.facebook.com/profile.php?id=100084760095342"><i class="bx bxl-facebook"></i></a>
+                        <a href="https://twitter.com/HibiscusLab"><i class="bx bxl-twitter"></i></a>
+                        <a href="https://www.instagram.com/hibiscuslab/"><i class="bx bxl-instagram"></i></a>
+                        <a href="https://t.me/hibiscuslabcommunity"><i class="bx bxl-telegram"></i></a>
+                        <a href="https://discord.gg/3aRqb9cH"><i class="bx bxl-discord"></i></a>
+                        <a href="https://www.tiktok.com/@hibiscuslab"><i class="bx bxl-tiktok"></i></a>
+                        <a href="https://www.youtube.com/channel/UCO3Igu24eoh3raBoBA7laPg"><i class="bx bxl-youtube"></i></a>
+                        <a href="https://github.com/Hibiscus-Lab"><i class="bx bxl-github"></i></a>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <h5 class="title-sm">Navigation</h5>
+                     <div class="footer-links">
+                        <a href="about.html">About Us</a>
+                        <a href="#project">Project</a>
+                        <a href="#roadmap">Roadmap</a>
+                        <a href="#partners">Partners</a>
+                        <a href="#contact">Contact Us</a>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <h5 class="title-sm">More</h5>
+                     <div class="footer-links">
+                        <a href="whistleblowing_policy.html">Whistleblowing Policy</a>
+                     </div>
+                  </div>
+                  <div class="col-md-2">
+                     <h5 class="title-sm">Reach Out</h5>
+                     <div class="footer-links">
+                        <p class="mb">Visit Us: 1609, Student Resource Center, Creative Industry Development Centre Level 16, UNIKL Campus City</p>
+                        <p class="mb">Send Email: <a href = "mailto: hello@biscus.my">hello@biscus.my</a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="footer-bottom">
+            <div class="container">
+               <div class="row justify-content-between gy-3">
+                  <div class="col-md-6">
+                     <p class="mb-0">Copyright © 2023 Hibiscus Lab</p>
+                  </div>
+                  <div class="col-auto">
+                     <p class="mb-0">Website Sponsored by Tarsoft Sdn. Bhd </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!-- End Footer -->
+
+      <!-- Optional JavaScript; choose one of the two! -->
+      <script src="../js/bootstrap.bundle.min.js"></script>
+   </body>
+</html>
